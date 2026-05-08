@@ -1,0 +1,2 @@
+# Explainable-AI-Framework-for-Multiclass-Ovarian-Ultrasound-Classification
+PCOS is a common hormonal disorder identified using ovarian ultrasound images. This project uses a few-shot Swin Transformer model to classify images as Normal, PCOS, or Dominant Follicle with limited data. Grad-CAM++ improves explainability, and the model achieved 95.16% accuracy, supporting reliable and efficient ovarian disease diagnosis.
